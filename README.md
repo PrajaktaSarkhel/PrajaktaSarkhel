@@ -128,6 +128,14 @@ class CurrentProjects:
 
 ---
 
+## 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrajaktaSarkhel&theme=tokyo-night&hide_border=true)](https://github.com/PrajaktaSarkhel)
+
+---
+
+<div align="center">
+
 ##  Let's Connect!
 
 <div align="center">
@@ -140,15 +148,6 @@ class CurrentProjects:
 </div>
 
 ---
-
-
-## 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrajaktaSarkhel&theme=tokyo-night&hide_border=true)](https://github.com/PrajaktaSarkhel)
-
----
-
-<div align="center">
   
 ### I believe that: The calmer you are, the clearer you think.
 
