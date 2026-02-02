@@ -72,12 +72,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrajaktaSarkhel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrajaktaSarkhel&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajaktaSarkhel&layout=compact&theme=tokyonight&hide_border=true)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrajaktaSarkhel&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PrajaktaSarkhel&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PrajaktaSarkhel&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -132,41 +141,12 @@ class CurrentProjects:
 
 ---
 
-## 💭 Quote of the Day
-
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
-
----
 
 ## 📈 Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrajaktaSarkhel&theme=tokyo-night&hide_border=true)](https://github.com/PrajaktaSarkhel)
 
 ---
-
-## This Week's Dev Stats
-
-```text
-💻 Most Used Languages This Week:
-JavaScript/TypeScript    ████████████████░░░░  75%
-Python                   ███░░░░░░░░░░░░░░░░░  15%
-CSS/HTML                 ██░░░░░░░░░░░░░░░░░░  10%
-
-🔥 Productive Hours:
-🌙 Night Coding          ████████████████████  100%
-☀️ Day Coding            █████░░░░░░░░░░░░░░░  25%
-☕ Coffee Breaks          ████████████░░░░░░░░  60%
-
-📊 Activity Distribution:
-Coding                   ████████████░░░░░░░░  60%
-Debugging                ██████░░░░░░░░░░░░░░  30%
-Learning                 ███░░░░░░░░░░░░░░░░░  15%
-Meetings                 ░░░░░░░░░░░░░░░░░░░░   2%
-```
 
 <div align="center">
   
@@ -179,3 +159,11 @@ From [PrajaktaSarkhel](https://github.com/PrajaktaSarkhel)
 <sub>Engineering with intent, fueled by curiosity</sub>
   
 </div>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:3A86FF,100:8338EC&width=100%25"
+  style="width:100%;"
+/>
+
+
+
