@@ -6,63 +6,16 @@
 
   <br/>
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-prajakta--sarkhel.vercel.app-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white)](https://prajakta-sarkhel.vercel.app/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajakta-sarkhel)
-  [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajaktasarkhel@gmail.com)
-
-  <br/><br/>
-
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="420"/>
   
 </div>
 
 ## 👩‍💻 About Me
 
-- 💻 **Software Developer & Full Stack Engineer** passionate about building robust, scalable web applications and systems.
-- 💼 **Ex-SDE Intern** at **Hunt Digital Media** & **LinkedIn CoachIn Mentee** (Top 20 Nationally).
+- 💻 **Software Developer & Full Stack Engineer:** passionate about building robust, scalable web applications and systems.
+- **EMAIL:** prajaktasarkhel@gmail.com
 - 🌐 **Portfolio Website:** [prajakta-sarkhel.vercel.app](https://prajakta-sarkhel.vercel.app/)
 - 🎯 **Goal:** Crafting elegant, high-impact solutions to real-world problems.
-- 💡 **Philosophy:** *"The calmer you are, the clearer you think."*
-
----
-
-## 💼 Experience
-
-### 🚀 **Hunt Digital Media** — *SDE Intern (Remote)*
-`Feb 2026 – Oct 2026`
-- Engineered and optimized core CRM systems processing high-volume Meta Ads leads, scaling backend throughput from **~1K to 20K+ leads/day** using Go-based microservices.
-- Built robust authentication and automation solutions using **Google OAuth**, OTP verification, and **Selenium-based** test/data workflows.
-- Owned features across the product lifecycle from requirement analysis and prioritization to development, QA, and deployment.
-
-### 🌟 **LinkedIn** — *CoachIn Mentee (Apprenticeship · Remote)*
-`Feb 2026 – Jul 2026`
-- Selected for the prestigious **LinkedIn CoachIn** mentorship program (6-month technical apprenticeship), receiving 1:1 mentorship from senior LinkedIn software engineers.
-- Underwent rigorous training in advanced Data Structures, Algorithms, System Design, and scalable software architecture.
-- Collaborated on real-world engineering problem statements and qualified among the **Top 20 Teams nationally** in the LinkedIn CoachIn Hackathon 2026.
-
----
-
-## 🛠️ Featured Projects
-
-### 📚 [Biblios — AI-Powered Book Insight App](https://prajakta-sarkhel.vercel.app/)
-*Tech Stack: Django REST Framework, Next.js, ChromaDB, TinyLlama, SQLite*
-- Built a RAG-powered book discovery platform supporting AI-generated summaries and natural-language question answering.
-- Scraped and processed 1,000+ book records for sentiment analysis and genre-based recommendations.
-- Implemented vector search using **ChromaDB** and **TinyLlama** to deliver context-aware semantic responses.
-
-### 🌐 [Orbit — Full Stack Social Media App](https://github.com/PrajaktaSarkhel)
-*Tech Stack: MongoDB, Express.js, React.js, Node.js, JWT, Mongoose*
-- Built a modern MERN-stack social media application featuring secure JWT authentication, posts, image uploads, and interactive feeds (likes and comments).
-- Designed RESTful APIs and MongoDB schemas to support scalable social interactions and secure user sessions.
-- Responsive, intuitive client interface built with React.
-
-### 🧘 [Eunoia — Mental Wellness & Soundscape App](https://prajakta-sarkhel.vercel.app/)
-*Tech Stack: JavaScript (ES6+), Web Audio API, HTML5, CSS3, LocalStorage*
-- Interactive mental wellness application synthesizing harmonic ambient frequencies and soundscapes using the **Web Audio API**.
-- Implemented daily guided journaling with local storage persistence, reflective prompt generation, and mindful activity timers.
-- Designed a calming, accessible UI with smooth transitions and responsive mobile-first layouts.
-
----
 
 ## 💻 Tech Stack
 
@@ -111,7 +64,24 @@
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
----
+## 💼 Experience
+
+### 🚀 **Hunt Digital Media** | *SDE Intern (Remote)*
+`Feb 2026 – Oct 2026`
+
+### 🌟 **LinkedIn** | *CoachIn Mentee (Apprenticeship · Remote)*
+`Feb 2026 – Jul 2026`
+
+## 🛠️ Featured Projects
+
+### 📚 [Biblios: AI-Powered Book Insight App](https://prajakta-sarkhel.vercel.app/)
+*Tech Stack: RAG powered; uses Django REST Framework, Next.js, ChromaDB, TinyLlama, SQLite*
+
+### 🌐 [Orbit: Full Stack Social Media App](https://github.com/PrajaktaSarkhel)
+*Tech Stack: MongoDB, Express.js, React.js, Node.js, JWT, Mongoose*
+
+### 🧘 [Eunoia: Mental Wellness & Soundscape App](https://prajakta-sarkhel.vercel.app/)
+*Tech Stack: JavaScript (ES6+), Web Audio API, HTML5, CSS3, LocalStorage*
 
 ## 📊 GitHub Stats
 
@@ -136,13 +106,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/2E9EF7/PrajaktaSarkhel" alt="Prajakta's Contribution Graph" width="100%" />
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
