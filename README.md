@@ -4,21 +4,67 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Developer;Tech+Enthusiast;Building+Cool+Projects;Curious+Learner)
 
+  <br/>
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-prajakta--sarkhel.vercel.app-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white)](https://prajakta-sarkhel.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajakta-sarkhel)
+  [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajaktasarkhel@gmail.com)
+
+  <br/><br/>
+
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="420"/>
   
 </div>
 
-## About Me
+## 👩‍💻 About Me
 
-🔅 **Software Developer** passionate about building robust web applications  
-🔅 **Full Stack Developer** constantly expanding my skill set through hands-on project  
-🔅 **Currently exploring:** Exploring how software systems work  
-🔅 **Goal:** Crafting elegant solutions to real-world problems  
-🔅 **Philosophy:** Just stacking building blocks to my pyramid of growth 
+- 💻 **Software Developer & Full Stack Engineer** passionate about building robust, scalable web applications and systems.
+- 💼 **Ex-SDE Intern** at **Hunt Digital Media** & **LinkedIn CoachIn Mentee** (Top 20 Nationally).
+- 🌐 **Portfolio Website:** [prajakta-sarkhel.vercel.app](https://prajakta-sarkhel.vercel.app/)
+- 🎯 **Goal:** Crafting elegant, high-impact solutions to real-world problems.
+- 💡 **Philosophy:** *"The calmer you are, the clearer you think."*
 
 ---
 
-## Tech Stack
+## 💼 Experience
+
+### 🚀 **Hunt Digital Media** — *SDE Intern (Remote)*
+`Feb 2026 – Oct 2026`
+- Engineered and optimized core CRM systems processing high-volume Meta Ads leads, scaling backend throughput from **~1K to 20K+ leads/day** using Go-based microservices.
+- Built robust authentication and automation solutions using **Google OAuth**, OTP verification, and **Selenium-based** test/data workflows.
+- Owned features across the product lifecycle from requirement analysis and prioritization to development, QA, and deployment.
+
+### 🌟 **LinkedIn** — *CoachIn Mentee (Apprenticeship · Remote)*
+`Feb 2026 – Jul 2026`
+- Selected for the prestigious **LinkedIn CoachIn** mentorship program (6-month technical apprenticeship), receiving 1:1 mentorship from senior LinkedIn software engineers.
+- Underwent rigorous training in advanced Data Structures, Algorithms, System Design, and scalable software architecture.
+- Collaborated on real-world engineering problem statements and qualified among the **Top 20 Teams nationally** in the LinkedIn CoachIn Hackathon 2026.
+
+---
+
+## 🛠️ Featured Projects
+
+### 📚 [Biblios — AI-Powered Book Insight App](https://prajakta-sarkhel.vercel.app/)
+*Tech Stack: Django REST Framework, Next.js, ChromaDB, TinyLlama, SQLite*
+- Built a RAG-powered book discovery platform supporting AI-generated summaries and natural-language question answering.
+- Scraped and processed 1,000+ book records for sentiment analysis and genre-based recommendations.
+- Implemented vector search using **ChromaDB** and **TinyLlama** to deliver context-aware semantic responses.
+
+### 🌐 [Orbit — Full Stack Social Media App](https://github.com/PrajaktaSarkhel)
+*Tech Stack: MongoDB, Express.js, React.js, Node.js, JWT, Mongoose*
+- Built a modern MERN-stack social media application featuring secure JWT authentication, posts, image uploads, and interactive feeds (likes and comments).
+- Designed RESTful APIs and MongoDB schemas to support scalable social interactions and secure user sessions.
+- Responsive, intuitive client interface built with React.
+
+### 🧘 [Eunoia — Mental Wellness & Soundscape App](https://prajakta-sarkhel.vercel.app/)
+*Tech Stack: JavaScript (ES6+), Web Audio API, HTML5, CSS3, LocalStorage*
+- Interactive mental wellness application synthesizing harmonic ambient frequencies and soundscapes using the **Web Audio API**.
+- Implemented daily guided journaling with local storage persistence, reflective prompt generation, and mindful activity timers.
+- Designed a calming, accessible UI with smooth transitions and responsive mobile-first layouts.
+
+---
+
+## 💻 Tech Stack
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -27,6 +73,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frontend Frameworks & Libraries
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,32 +85,27 @@
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular JS](https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Vue JS](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![ShadCN UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
 
-### Backend & Database
+### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### APIs & Auth, Testing & Automation
+### APIs, Testing & Tools
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-
-### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![NODEMON](https://img.shields.io/badge/NODEMON-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
@@ -78,72 +120,39 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrajaktaSarkhel&show_icons=true&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=PrajaktaSarkhel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PrajaktaSarkhel&theme=tokyonight&hide_border=true" />
+      <img src="https://streak-stats.demolab.com/?user=PrajaktaSarkhel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PrajaktaSarkhel&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajaktaSarkhel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
 ---
 
-##  Current Adventures
-
-```python
-class CurrentProjects:
-    def __init__(self):
-        self.main_focus = [
-            " Building an intelligent trading bot with Binance API",
-            " Creating full-stack web applications with modern tech",
-            " Exploring animation libraries and UI/UX design",
-            " Deep diving into Next.js App Router and Server Components"
-        ]
-        
-    def learning_goals_2026(self):
-        return {
-            "master": ["System Design", "Cloud Architecture", "Web3"],
-            "improve": ["Algorithm Optimization", "Testing", "DevOps"],
-            "explore": ["AI/ML Integration", "Microservices", "GraphQL"]
-        }
-    
-    def collaboration_status(self):
-        return " Open to interesting projects and collaborations!"
-```
----
-
-## 🌟 Featured Projects
-
-<!-- You can add your pinned repositories here manually or they will show automatically -->
-
-**📌 Check out my recent repositories to see what I've been working on!**
-
-**⭐ If you find my work interesting, feel free to star some repos!**
-
-**🤝 Open for Freelance Work / Internships and Collaborations**
-
----
-
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PrajaktaSarkhel&theme=tokyo-night&hide_border=true)](https://github.com/PrajaktaSarkhel)
+<div align="center">
+  <img src="https://ghchart.rshah.org/2E9EF7/PrajaktaSarkhel" alt="Prajakta's Contribution Graph" width="100%" />
+</div>
 
 ---
 
-##  Let's Connect!
+## 🤝 Let's Connect!
 
 <div align="center">
   
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://prajakta-sarkhel.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajakta-sarkhel)
- [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/me_sinisterr)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajaktasarkhel@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrajaktaSarkhel)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajaktasarkhel@gmail.com)
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/me_sinisterr)
 
 </div>
 
@@ -165,6 +174,3 @@ From [PrajaktaSarkhel](https://github.com/PrajaktaSarkhel)
   src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:3A86FF,100:8338EC&width=100%25"
   style="width:100%;"
 />
-
-
-
