@@ -12,10 +12,10 @@
 
 ## 👩‍💻 About Me
 
-- 💻 **Software Developer & Full Stack Engineer:** passionate about building robust, scalable web applications and systems.
+- **Software Developer & Full Stack Engineer:** passionate about building robust, scalable web applications and systems.
 - **EMAIL:** prajaktasarkhel@gmail.com
-- 🌐 **Portfolio Website:** [prajakta-sarkhel.vercel.app](https://prajakta-sarkhel.vercel.app/)
-- 🎯 **Goal:** Crafting elegant, high-impact solutions to real-world problems.
+- **Portfolio Website:** [prajakta-sarkhel.vercel.app](https://prajakta-sarkhel.vercel.app/)
+- **Goal:** Crafting elegant, high-impact solutions to real-world problems.
 
 ## 💻 Tech Stack
 
@@ -74,14 +74,18 @@
 
 ## 🛠️ Featured Projects
 
-### 📚 [Biblios: AI-Powered Book Insight App](https://prajakta-sarkhel.vercel.app/)
-*Tech Stack: RAG powered; uses Django REST Framework, Next.js, ChromaDB, TinyLlama, SQLite*
+### 📚 [Biblios: AI-Powered Book Insight App](https://book-insight-app.vercel.app/)
+*Tech Stack: RAG powered; uses Django REST Framework, Next.js, ChromaDB, TinyLlama, SQLite*  
+🔗 [Live Demo](https://book-insight-app.vercel.app/) &nbsp;|&nbsp; 💻 [GitHub Repo](https://github.com/PrajaktaSarkhel/book-insight-app)
 
-### 🌐 [Orbit: Full Stack Social Media App](https://github.com/PrajaktaSarkhel)
-*Tech Stack: MongoDB, Express.js, React.js, Node.js, JWT, Mongoose*
+### 🌐 [Orbit: Full Stack Social Media App](https://orbit-social-app.vercel.app/)
+*Tech Stack: MongoDB, Express.js, React.js, Node.js, JWT, Mongoose*  
+🔗 [Live Demo](https://orbit-social-app.vercel.app/) &nbsp;|&nbsp; 💻 [GitHub Repo](https://github.com/PrajaktaSarkhel/orbit_social_app)
 
-### 🧘 [Eunoia: Mental Wellness & Soundscape App](https://prajakta-sarkhel.vercel.app/)
-*Tech Stack: JavaScript (ES6+), Web Audio API, HTML5, CSS3, LocalStorage*
+### 🧘 [Eunoia: Mental Wellness & Soundscape App](https://eunoia-companion.vercel.app/)
+*Tech Stack: JavaScript (ES6+), Web Audio API, HTML5, CSS3, LocalStorage*  
+🔗 [Live Demo](https://eunoia-companion.vercel.app/) &nbsp;|&nbsp; 💻 [GitHub Repo](https://github.com/PrajaktaSarkhel/Eunoia)
+
 
 ## 📊 GitHub Stats
 
@@ -104,8 +108,6 @@
 
 </div>
 
----
-
 
 ## 🤝 Let's Connect!
 
@@ -119,7 +121,7 @@
 
 </div>
 
----
+
 
 <div align="center">
   
