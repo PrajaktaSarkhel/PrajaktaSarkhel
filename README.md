@@ -83,7 +83,7 @@
 🔗 [Live Demo](https://orbit-social-app.vercel.app/) &nbsp;|&nbsp; 💻 [GitHub Repo](https://github.com/PrajaktaSarkhel/orbit_social_app)
 
 ### 🧘 [Eunoia: Mental Wellness & Soundscape App](https://eunoia-companion.vercel.app/)
-*Tech Stack: JavaScript (ES6+), Web Audio API, HTML5, CSS3, LocalStorage*  
+*Tech Stack: JavaScript (ES6+), Web Audio API, HTML5, CSS3*  
 🔗 [Live Demo](https://eunoia-companion.vercel.app/) &nbsp;|&nbsp; 💻 [GitHub Repo](https://github.com/PrajaktaSarkhel/Eunoia)
 
 
